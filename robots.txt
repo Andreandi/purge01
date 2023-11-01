@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://wawasan4dlink.ramdajs.com/sitemap.xml
